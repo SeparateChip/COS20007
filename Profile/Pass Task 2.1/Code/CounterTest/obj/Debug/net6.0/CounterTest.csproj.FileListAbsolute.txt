@@ -1,0 +1,15 @@
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 2.1\Code\CounterTest\obj\Debug\net6.0\CounterTest.csproj.AssemblyReference.cache
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 2.1\Code\CounterTest\obj\Debug\net6.0\CounterTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 2.1\Code\CounterTest\obj\Debug\net6.0\CounterTest.AssemblyInfoInputs.cache
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 2.1\Code\CounterTest\obj\Debug\net6.0\CounterTest.AssemblyInfo.cs
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 2.1\Code\CounterTest\obj\Debug\net6.0\CounterTest.csproj.CoreCompileInputs.cache
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 2.1\Code\CounterTest\bin\Debug\net6.0\CounterTest.exe
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 2.1\Code\CounterTest\bin\Debug\net6.0\CounterTest.deps.json
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 2.1\Code\CounterTest\bin\Debug\net6.0\CounterTest.runtimeconfig.json
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 2.1\Code\CounterTest\bin\Debug\net6.0\CounterTest.dll
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 2.1\Code\CounterTest\bin\Debug\net6.0\CounterTest.pdb
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 2.1\Code\CounterTest\obj\Debug\net6.0\CounterTest.dll
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 2.1\Code\CounterTest\obj\Debug\net6.0\refint\CounterTest.dll
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 2.1\Code\CounterTest\obj\Debug\net6.0\CounterTest.pdb
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 2.1\Code\CounterTest\obj\Debug\net6.0\CounterTest.genruntimeconfig.cache
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 2.1\Code\CounterTest\obj\Debug\net6.0\ref\CounterTest.dll

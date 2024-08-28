@@ -1,0 +1,5 @@
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 6.1\SwinAdventure\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 6.1\SwinAdventure\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 6.1\SwinAdventure\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 6.1\SwinAdventure\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 6.1\SwinAdventure\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache

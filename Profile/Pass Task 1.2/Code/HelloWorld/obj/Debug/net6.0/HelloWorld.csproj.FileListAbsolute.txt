@@ -1,0 +1,15 @@
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 1.2\Code\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 1.2\Code\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 1.2\Code\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 1.2\Code\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 1.2\Code\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 1.2\Code\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 1.2\Code\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 1.2\Code\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 1.2\Code\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 1.2\Code\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 1.2\Code\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 1.2\Code\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 1.2\Code\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 1.2\Code\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS20007\Profile\Pass Task 1.2\Code\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
